@@ -1,13 +1,13 @@
-# Güvenli ve Güvensiz PHP Uygulama Karşılaştırması
+# Güvenli ve Zafiyetli PHP Uygulama Karşılaştırması
 
-Bu proje, bir PHP tabanlı web uygulamasının **güvensiz** ve **güvenli** versiyonlarını karşılaştırmalı olarak sunar. Amaç, OWASP tarafından tanımlanan yaygın güvenlik açıklarını göstermek ve nasıl düzeltilebileceğini öğretmektir.
+Bu proje, bir PHP tabanlı web uygulamasının **zafiyetli** ve **güvenli** versiyonlarını karşılaştırmalı olarak sunar. Amaç, OWASP tarafından tanımlanan yaygın güvenlik açıklarını göstermek ve nasıl düzeltilebileceğini öğretmektir.
 
 ## 📁 Klasörler
 
 - `zafiyetli/`: Güvenlik önlemleri alınmamış, çeşitli açıklar barındıran sürüm.
 - `guvenli/`: Aynı uygulamanın güvenli hale getirilmiş sürümü.
 
-## ⚠️ Güvensiz Sürümdeki Zafiyetler
+## ⚠️ Zafiyetli Sürümdeki Zafiyetler
 
 - SQL Injection
 - Broken Access Control
@@ -29,5 +29,5 @@ Bu proje, bir PHP tabanlı web uygulamasının **güvensiz** ve **güvenli** ver
 
 ## ⚠️ Uyarı
 
-Güvensiz sürüm yalnızca eğitim amaçlıdır.
+Zafiyetli sürüm yalnızca eğitim amaçlıdır.
 
