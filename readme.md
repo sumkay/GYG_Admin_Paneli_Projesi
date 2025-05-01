@@ -4,7 +4,7 @@ Bu proje, bir PHP tabanlı web uygulamasının **güvensiz** ve **güvenli** ver
 
 ## 📁 Klasörler
 
-- `guvensiz/`: Güvenlik önlemleri alınmamış, çeşitli açıklar barındıran sürüm.
+- `zafiyetli/`: Güvenlik önlemleri alınmamış, çeşitli açıklar barındıran sürüm.
 - `guvenli/`: Aynı uygulamanın güvenli hale getirilmiş sürümü.
 
 ## ⚠️ Güvensiz Sürümdeki Zafiyetler
@@ -25,7 +25,7 @@ Bu proje, bir PHP tabanlı web uygulamasının **güvensiz** ve **güvenli** ver
 
 1. XAMPP/WAMP gibi bir PHP ortamı kurun.
 2. Veritabanını `security_db` adıyla oluşturun ve tabloları ekleyin.
-3. `guvensiz/` veya `guvenli/` klasörünü çalıştırın.
+3. `zafiyetli/` veya `guvenli/` klasörünü çalıştırın.
 
 ## ⚠️ Uyarı
 
